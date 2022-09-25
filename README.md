@@ -2,7 +2,9 @@
 this is the Repo for Team TESLA For SIH 2k22
 
 ![Device](https://i.postimg.cc/8sgPfWRD/IMG-20220829-WA0002.jpg)
-libraries
+
+
+dependencies:
 
 numpy
 opencv-contrib-python
@@ -11,3 +13,8 @@ pillow
 pandas
 cmake
 os
+pytorch
+keras
+
+Flow Chart:
+![Flow](https://i.postimg.cc/vHqBwjxg/Tesla-Solution-Flow.png)
